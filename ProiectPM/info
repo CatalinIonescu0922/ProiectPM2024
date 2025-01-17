@@ -1,0 +1,2558 @@
+{
+  "uuid": "73075d271a232c9ff8690492df35f08f",
+  "path": "Offline/ProiectPM",
+  "name": "ProiectPM",
+  "content": "Acesta este proiectul la PM",
+  "created_at": "2024-11-15 21:23:37",
+  "updated_at": "2025-01-08 11:35:31",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "d263985cd9dfbe4f19b719ed68793c55",
+      "title": "Unitatea Centrala",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "5f03893d6e7e469aa35c6907a7b52f27": 1,
+        "5c1036b53a4146e4841df4ed0a9de8f0": 1,
+        "bb009484ef804a24ac5d18c54b249586": 1,
+        "24eeb2ceca08480b92b847b6a310acda": 1,
+        "e33cc1be9d5e4d929dda60b4eb023d72": 1,
+        "865f7551252e4497b59368f0dddb916c": 1,
+        "513eed593c5a4818a612eef90be66975": 3,
+        "04f8fb94e59045b1886148b2688abc6c": 1,
+        "7b52d672def048d298a7ab6d7883d325": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1u",
+          5,
+          "C0603",
+          "C1,C1,C2,C3,C4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4007W",
+          1,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D1",
+          {
+            "Manufacturer Part": "1N4007W",
+            "Manufacturer": "BLUE ROCKET",
+            "Supplier": "LCSC",
+            "Supplier Part": "C328592"
+          }
+        ],
+        [
+          "K2-3.6×6.1_SMD",
+          1,
+          "KEY-SMD_2P-L6.2-W3.6-LS8.0",
+          "KEY1",
+          {
+            "Manufacturer Part": "K2-1107ST-A4SW-06",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C118141"
+          }
+        ],
+        [
+          "1k",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "8284A",
+          1,
+          "",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "8086_microprocessor",
+          1,
+          "",
+          "U2",
+          {
+            "Manufacturer Part": "8086intel",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "32.768kHz",
+          1,
+          "OSC-TH_BD2.0-P0.70-D0.3",
+          "U3",
+          {
+            "Manufacturer Part": "01.X.TB.11JJVF000327680",
+            "Manufacturer": "CREC(晶宝)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7570511"
+          }
+        ],
+        [
+          "74LS373",
+          3,
+          "",
+          "U4,U5,U6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "74LS245",
+          2,
+          "",
+          "U7,U8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "27C512EPROM",
+          2,
+          "",
+          "U9,U10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "62256SRAM",
+          2,
+          "",
+          "U11,U12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "7W32FUT",
+          21,
+          "TSSOP8-0D65",
+          "U13,U14,U19,U20,U23,U24,U25,U26,U29,U30,U33,U35,U37,U42,U45,U46,U47,U48,U49,U52,U53",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "78X138",
+          3,
+          "",
+          "U15,U36,U38",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MC74HC08ADR2",
+          1,
+          "SOIC14N",
+          "U16",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "INVERTOR2",
+          17,
+          "FPC-SMD_21P-P0.60_XKB_X03A10H21G",
+          "U17,U18,U21,U22,U27,U28,U31,U32,U34,U40,U41,U43,U44,U50,U51,U54,U55",
+          {
+            "Manufacturer Part": "74HC04",
+            "Manufacturer": "US5QBR",
+            "Supplier": "LCSC",
+            "Supplier Part": "US5QBR"
+          }
+        ],
+        [
+          "3 State switch small",
+          2,
+          "3 STATE SWITCH SMALL",
+          "U39,U56",
+          {
+            "Manufacturer Part": "-",
+            "Manufacturer": "-",
+            "Supplier": "",
+            "Supplier Part": "-"
+          }
+        ],
+        [
+          "82251",
+          1,
+          "",
+          "U57",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "8255A-PARALEL",
+          1,
+          "",
+          "U58",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MAX232",
+          1,
+          "",
+          "U59",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1733760621,
+      "createTime": 1731698617,
+      "histories": [],
+      "created_at": "2024-11-15 21:23:37",
+      "updated_at": "2024-12-09 18:10:21"
+    },
+    {
+      "uuid": "1a999530ec84d09ce62e3638fc864b29",
+      "title": "ConectareaMemorilor",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce8875d9b04b4362aaabd8feb97b3f78": 2,
+        "7aa77affece94b729db6fbf1769a2fc3": 2,
+        "3a563f49397641af81d5da038f46823a": 2,
+        "d585281da691438cad3d5e6fa7363a82": 1,
+        "0a769dceea0c4dfeb6082685ec7b2823": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1u",
+          1,
+          "C0603",
+          "C1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4007W",
+          1,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D1",
+          {
+            "Manufacturer Part": "1N4007W",
+            "Manufacturer": "BLUE ROCKET",
+            "Supplier": "LCSC",
+            "Supplier Part": "C328592"
+          }
+        ],
+        [
+          "K2-3.6×6.1_SMD",
+          1,
+          "KEY-SMD_2P-L6.2-W3.6-LS8.0",
+          "KEY1",
+          {
+            "Manufacturer Part": "K2-1107ST-A4SW-06",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C118141"
+          }
+        ],
+        [
+          "1k",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "8284A",
+          1,
+          "",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "8086_microprocessor",
+          1,
+          "",
+          "U2",
+          {
+            "Manufacturer Part": "8086intel",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "32.768kHz",
+          1,
+          "OSC-TH_BD2.0-P0.70-D0.3",
+          "U3",
+          {
+            "Manufacturer Part": "01.X.TB.11JJVF000327680",
+            "Manufacturer": "CREC(晶宝)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7570511"
+          }
+        ],
+        [
+          "74LS373",
+          3,
+          "",
+          "U4,U5,U6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "74LS245",
+          2,
+          "",
+          "U7,U8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "27C512EPROM",
+          2,
+          "",
+          "U9,U10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "62256SRAM",
+          2,
+          "",
+          "U11,U12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "7W32FUT",
+          21,
+          "TSSOP8-0D65",
+          "U13,U14,U19,U20,U23,U24,U25,U26,U29,U30,U33,U35,U37,U42,U45,U46,U47,U48,U49,U52,U53",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "78X138",
+          3,
+          "",
+          "U15,U36,U38",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MC74HC08ADR2",
+          1,
+          "SOIC14N",
+          "U16",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "INVERTOR2",
+          17,
+          "FPC-SMD_21P-P0.60_XKB_X03A10H21G",
+          "U17,U18,U21,U22,U27,U28,U31,U32,U34,U40,U41,U43,U44,U50,U51,U54,U55",
+          {
+            "Manufacturer Part": "74HC04",
+            "Manufacturer": "US5QBR",
+            "Supplier": "LCSC",
+            "Supplier Part": "US5QBR"
+          }
+        ]
+      ],
+      "updateTime": 1731953897,
+      "createTime": 1731701427,
+      "histories": [],
+      "created_at": "2024-11-15 22:10:27",
+      "updated_at": "2024-11-18 20:18:17"
+    },
+    {
+      "uuid": "b8b0443ccbe0ddbca422848ac64c37fe",
+      "title": "DECINTERFATASERIALAPARA",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "d585281da691438cad3d5e6fa7363a82": 1,
+        "bb8d2240b129402b9fe16db6f8ea0a40": 2,
+        "a3c4736fa4f34475b5bbaf26b93bb01a": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1u",
+          5,
+          "C0603",
+          "C1,C1,C2,C3,C4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4007W",
+          4,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D1,D2,D3,D4",
+          {
+            "Manufacturer Part": "1N4007W",
+            "Manufacturer": "BLUE ROCKET",
+            "Supplier": "LCSC",
+            "Supplier Part": "C328592"
+          }
+        ],
+        [
+          "K2-3.6×6.1_SMD",
+          1,
+          "KEY-SMD_2P-L6.2-W3.6-LS8.0",
+          "KEY1",
+          {
+            "Manufacturer Part": "K2-1107ST-A4SW-06",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C118141"
+          }
+        ],
+        [
+          "LED",
+          10,
+          "CHIPLED-0603-TTW",
+          "LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8,LED9,LED10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1k",
+          75,
+          "R0603",
+          "R1,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40,R41,R42,R43,R44,R45,R46,R47,R48,R49,R50,R51,R52,R53,R54,R55,R56,R57,R58,R59,R60,R61,R62,R63,R64,R65,R66,R67,R68,R69,R70,R71,R72,R73,R74,R75,R76,R77,R78",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10k",
+          3,
+          "R0603",
+          "R2,R3,R4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SWITCH-SPDTPTH_LOCK",
+          2,
+          "SWITCH-SPDT_LOCK.007S",
+          "S1,S2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SEG-TH_0.56×1_Cathode",
+          8,
+          "LED-SEG-TH_10P-L12.6-W19.0-P2.54-S15.24-BL",
+          "SEG1,SEG2,SEG3,SEG4,SEG5,SEG6,SEG7,SEG8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "志浩",
+            "Supplier": "",
+            "Supplier Part": "C8093"
+          }
+        ],
+        [
+          "Push Button",
+          9,
+          "SMD-BUTTON",
+          "SW-2SWITCH,SW-3SWITCH,SW-4SWITCH,SW-7SWITCH,SW-8SWITCH,SW-9SWITCH,SW-11SWITCH,SW-12SWITCH,SW-13SWITCH",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "SparkFun",
+            "Supplier Part": "COM-08720"
+          }
+        ],
+        [
+          "8284A",
+          1,
+          "",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "8086_microprocessor",
+          1,
+          "",
+          "U2",
+          {
+            "Manufacturer Part": "8086intel",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "32.768kHz",
+          1,
+          "OSC-TH_BD2.0-P0.70-D0.3",
+          "U3",
+          {
+            "Manufacturer Part": "01.X.TB.11JJVF000327680",
+            "Manufacturer": "CREC(晶宝)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7570511"
+          }
+        ],
+        [
+          "74LS373",
+          3,
+          "",
+          "U4,U5,U6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "74LS245",
+          2,
+          "",
+          "U7,U8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "27C512EPROM",
+          2,
+          "",
+          "U9,U10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "62256SRAM",
+          2,
+          "",
+          "U11,U12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "7W32FUT",
+          2,
+          "TSSOP8-0D65",
+          "U13,U14",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "78X138",
+          2,
+          "",
+          "U15,U38",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MC74HC08ADR2",
+          1,
+          "SOIC14N",
+          "U16",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Invertor1",
+          1,
+          "",
+          "U17",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "82251",
+          1,
+          "",
+          "U57",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "8255A-PARALEL",
+          1,
+          "",
+          "U58",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MAX232",
+          1,
+          "",
+          "U59",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "74LS244",
+          1,
+          "",
+          "U60",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "74X373",
+          11,
+          "DIP20",
+          "U61,U62,U63,U66,U68,U69,U70,U71,U72,U73,U74",
+          {
+            "Manufacturer Part": "74X373",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1736108269,
+      "createTime": 1731934539,
+      "histories": [],
+      "created_at": "2024-11-18 14:55:39",
+      "updated_at": "2025-01-05 22:17:49"
+    },
+    {
+      "uuid": "d375daf70cb83b6d83d2ae121bd8c57b",
+      "title": "InterfataParalelaSeriala",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e6b40fbc30344130838347ca3f104309": 1,
+        "e3e387f9557948a2be99bd9fb9f5b355": 1,
+        "868d5152cdac4e2b8419a995f9a388df": 1,
+        "fd11c9e744c44aeab6011e8bd4c3ea86": 4,
+        "3054a603cf1d4c0b9773fa98974df3e1": 1,
+        "8144911b61d94703bcfe863ef33d6e78": 1,
+        "fcaba4851eda4ca19d4326a668633a30": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1u",
+          5,
+          "C0603",
+          "C1,C1,C2,C3,C4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4007W",
+          4,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D1,D2,D3,D4",
+          {
+            "Manufacturer Part": "1N4007W",
+            "Manufacturer": "BLUE ROCKET",
+            "Supplier": "LCSC",
+            "Supplier Part": "C328592"
+          }
+        ],
+        [
+          "K2-3.6×6.1_SMD",
+          1,
+          "KEY-SMD_2P-L6.2-W3.6-LS8.0",
+          "KEY1",
+          {
+            "Manufacturer Part": "K2-1107ST-A4SW-06",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C118141"
+          }
+        ],
+        [
+          "LED",
+          10,
+          "CHIPLED-0603-TTW",
+          "LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8,LED9,LED10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1k",
+          76,
+          "R0603",
+          "R1,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40,R41,R42,R43,R44,R45,R46,R47,R48,R49,R50,R51,R52,R53,R54,R55,R56,R57,R58,R59,R60,R61,R62,R63,R64,R65,R66,R67,R68,R69,R70,R71,R72,R73,R74,R75,R76,R77,R78,R79",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10k",
+          3,
+          "R0603",
+          "R2,R3,R4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "R_3386P_EU",
+          1,
+          "RES-ADJ-TH_3386P",
+          "RP1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SWITCH-SPDTPTH_LOCK",
+          2,
+          "SWITCH-SPDT_LOCK.007S",
+          "S1,S2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SEG-TH_0.56×1_Cathode",
+          8,
+          "LED-SEG-TH_10P-L12.6-W19.0-P2.54-S15.24-BL",
+          "SEG1,SEG2,SEG3,SEG4,SEG5,SEG6,SEG7,SEG8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "志浩",
+            "Supplier": "",
+            "Supplier Part": "C8093"
+          }
+        ],
+        [
+          "Push Button",
+          9,
+          "SMD-BUTTON",
+          "SW-2SWITCH,SW-3SWITCH,SW-4SWITCH,SW-7SWITCH,SW-8SWITCH,SW-9SWITCH,SW-11SWITCH,SW-12SWITCH,SW-13SWITCH",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "SparkFun",
+            "Supplier Part": "COM-08720"
+          }
+        ],
+        [
+          "8284A",
+          1,
+          "",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "8086_microprocessor",
+          1,
+          "",
+          "U2",
+          {
+            "Manufacturer Part": "8086intel",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "32.768kHz",
+          1,
+          "OSC-TH_BD2.0-P0.70-D0.3",
+          "U3",
+          {
+            "Manufacturer Part": "01.X.TB.11JJVF000327680",
+            "Manufacturer": "CREC(晶宝)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7570511"
+          }
+        ],
+        [
+          "74LS373",
+          3,
+          "",
+          "U4,U5,U6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "74LS245",
+          2,
+          "",
+          "U7,U8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "27C512EPROM",
+          2,
+          "",
+          "U9,U10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "62256SRAM",
+          2,
+          "",
+          "U11,U12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "7W32FUT",
+          2,
+          "TSSOP8-0D65",
+          "U13,U14",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "78X138",
+          2,
+          "",
+          "U15,U38",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MC74HC08ADR2",
+          1,
+          "SOIC14N",
+          "U16",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Invertor1",
+          2,
+          "",
+          "U17,U19",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "dec4-16",
+          1,
+          "",
+          "U18",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LCD",
+          1,
+          "",
+          "U20",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "82251",
+          1,
+          "",
+          "U57",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "8255A-PARALEL",
+          1,
+          "",
+          "U58",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MAX232",
+          1,
+          "",
+          "U59",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "74LS244",
+          1,
+          "",
+          "U60",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "74X373",
+          11,
+          "DIP20",
+          "U61,U62,U63,U66,U68,U69,U70,U71,U72,U73,U74",
+          {
+            "Manufacturer Part": "74X373",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1736188060,
+      "createTime": 1732024192,
+      "histories": [],
+      "created_at": "2024-11-19 15:49:52",
+      "updated_at": "2025-01-06 20:27:40"
+    },
+    {
+      "uuid": "0b0385de67cb431ba972a6379191a6ed",
+      "title": "MiniTast",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e33cc1be9d5e4d929dda60b4eb023d72": 3,
+        "81d7cc6507de4e62b43f9b720a82e38d": 1,
+        "bb009484ef804a24ac5d18c54b249586": 3,
+        "5608e5afc7d743498678b62b5923523c": 9,
+        "126226edce754730b8bc3bb42140dfc6": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1u",
+          5,
+          "C0603",
+          "C1,C1,C2,C3,C4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4007W",
+          4,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D1,D2,D3,D4",
+          {
+            "Manufacturer Part": "1N4007W",
+            "Manufacturer": "BLUE ROCKET",
+            "Supplier": "LCSC",
+            "Supplier Part": "C328592"
+          }
+        ],
+        [
+          "K2-3.6×6.1_SMD",
+          1,
+          "KEY-SMD_2P-L6.2-W3.6-LS8.0",
+          "KEY1",
+          {
+            "Manufacturer Part": "K2-1107ST-A4SW-06",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C118141"
+          }
+        ],
+        [
+          "LED",
+          10,
+          "CHIPLED-0603-TTW",
+          "LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8,LED9,LED10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1k",
+          76,
+          "R0603",
+          "R1,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40,R41,R42,R43,R44,R45,R46,R47,R48,R49,R50,R51,R52,R53,R54,R55,R56,R57,R58,R59,R60,R61,R62,R63,R64,R65,R66,R67,R68,R69,R70,R71,R72,R73,R74,R75,R76,R77,R78,R79",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10k",
+          3,
+          "R0603",
+          "R2,R3,R4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "R_3386P_EU",
+          1,
+          "RES-ADJ-TH_3386P",
+          "RP1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SWITCH-SPDTPTH_LOCK",
+          2,
+          "SWITCH-SPDT_LOCK.007S",
+          "S1,S2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SEG-TH_0.56×1_Cathode",
+          8,
+          "LED-SEG-TH_10P-L12.6-W19.0-P2.54-S15.24-BL",
+          "SEG1,SEG2,SEG3,SEG4,SEG5,SEG6,SEG7,SEG8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "志浩",
+            "Supplier": "",
+            "Supplier Part": "C8093"
+          }
+        ],
+        [
+          "Push Button",
+          9,
+          "SMD-BUTTON",
+          "SW-2SWITCH,SW-3SWITCH,SW-4SWITCH,SW-7SWITCH,SW-8SWITCH,SW-9SWITCH,SW-11SWITCH,SW-12SWITCH,SW-13SWITCH",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "SparkFun",
+            "Supplier Part": "COM-08720"
+          }
+        ],
+        [
+          "8284A",
+          1,
+          "",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "8086_microprocessor",
+          1,
+          "",
+          "U2",
+          {
+            "Manufacturer Part": "8086intel",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "32.768kHz",
+          1,
+          "OSC-TH_BD2.0-P0.70-D0.3",
+          "U3",
+          {
+            "Manufacturer Part": "01.X.TB.11JJVF000327680",
+            "Manufacturer": "CREC(晶宝)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7570511"
+          }
+        ],
+        [
+          "74LS373",
+          3,
+          "",
+          "U4,U5,U6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "74LS245",
+          2,
+          "",
+          "U7,U8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "27C512EPROM",
+          2,
+          "",
+          "U9,U10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "62256SRAM",
+          2,
+          "",
+          "U11,U12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "7W32FUT",
+          2,
+          "TSSOP8-0D65",
+          "U13,U14",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "78X138",
+          2,
+          "",
+          "U15,U38",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MC74HC08ADR2",
+          1,
+          "SOIC14N",
+          "U16",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Invertor1",
+          2,
+          "",
+          "U17,U19",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "dec4-16",
+          1,
+          "",
+          "U18",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LCD",
+          1,
+          "",
+          "U20",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "82251",
+          1,
+          "",
+          "U57",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "8255A-PARALEL",
+          1,
+          "",
+          "U58",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MAX232",
+          1,
+          "",
+          "U59",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "74LS244",
+          1,
+          "",
+          "U60",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "74X373",
+          11,
+          "DIP20",
+          "U61,U62,U63,U66,U68,U69,U70,U71,U72,U73,U74",
+          {
+            "Manufacturer Part": "74X373",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1736328931,
+      "createTime": 1733845256,
+      "histories": [],
+      "created_at": "2024-12-10 17:40:56",
+      "updated_at": "2025-01-08 11:35:31"
+    },
+    {
+      "uuid": "be981589593834ae84c03141ac457493",
+      "title": "LED-URI",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "bb009484ef804a24ac5d18c54b249586": 10,
+        "a43a3033995648d29edb0ce022cc447c": 10,
+        "81d7cc6507de4e62b43f9b720a82e38d": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1u",
+          5,
+          "C0603",
+          "C1,C1,C2,C3,C4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4007W",
+          4,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D1,D2,D3,D4",
+          {
+            "Manufacturer Part": "1N4007W",
+            "Manufacturer": "BLUE ROCKET",
+            "Supplier": "LCSC",
+            "Supplier Part": "C328592"
+          }
+        ],
+        [
+          "K2-3.6×6.1_SMD",
+          1,
+          "KEY-SMD_2P-L6.2-W3.6-LS8.0",
+          "KEY1",
+          {
+            "Manufacturer Part": "K2-1107ST-A4SW-06",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C118141"
+          }
+        ],
+        [
+          "LED",
+          10,
+          "CHIPLED-0603-TTW",
+          "LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8,LED9,LED10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1k",
+          11,
+          "R0603",
+          "R1,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10k",
+          3,
+          "R0603",
+          "R2,R3,R4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Push Button",
+          9,
+          "SMD-BUTTON",
+          "SW-2SWITCH,SW-3SWITCH,SW-4SWITCH,SW-7SWITCH,SW-8SWITCH,SW-9SWITCH,SW-11SWITCH,SW-12SWITCH,SW-13SWITCH",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "SparkFun",
+            "Supplier Part": "COM-08720"
+          }
+        ],
+        [
+          "8284A",
+          1,
+          "",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "8086_microprocessor",
+          1,
+          "",
+          "U2",
+          {
+            "Manufacturer Part": "8086intel",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "32.768kHz",
+          1,
+          "OSC-TH_BD2.0-P0.70-D0.3",
+          "U3",
+          {
+            "Manufacturer Part": "01.X.TB.11JJVF000327680",
+            "Manufacturer": "CREC(晶宝)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7570511"
+          }
+        ],
+        [
+          "74LS373",
+          3,
+          "",
+          "U4,U5,U6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "74LS245",
+          2,
+          "",
+          "U7,U8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "27C512EPROM",
+          2,
+          "",
+          "U9,U10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "62256SRAM",
+          2,
+          "",
+          "U11,U12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "7W32FUT",
+          21,
+          "TSSOP8-0D65",
+          "U13,U14,U19,U20,U23,U24,U25,U26,U29,U30,U33,U35,U37,U42,U45,U46,U47,U48,U49,U52,U53",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "78X138",
+          3,
+          "",
+          "U15,U36,U38",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MC74HC08ADR2",
+          1,
+          "SOIC14N",
+          "U16",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "INVERTOR2",
+          17,
+          "FPC-SMD_21P-P0.60_XKB_X03A10H21G",
+          "U17,U18,U21,U22,U27,U28,U31,U32,U34,U40,U41,U43,U44,U50,U51,U54,U55",
+          {
+            "Manufacturer Part": "74HC04",
+            "Manufacturer": "US5QBR",
+            "Supplier": "LCSC",
+            "Supplier Part": "US5QBR"
+          }
+        ],
+        [
+          "3 State switch small",
+          2,
+          "3 STATE SWITCH SMALL",
+          "U39,U56",
+          {
+            "Manufacturer Part": "-",
+            "Manufacturer": "-",
+            "Supplier": "",
+            "Supplier Part": "-"
+          }
+        ],
+        [
+          "82251",
+          1,
+          "",
+          "U57",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "8255A-PARALEL",
+          1,
+          "",
+          "U58",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MAX232",
+          1,
+          "",
+          "U59",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "74LS244",
+          1,
+          "",
+          "U60",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "74X373",
+          3,
+          "DIP20",
+          "U61,U66,U68",
+          {
+            "Manufacturer Part": "74X373",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1733935444,
+      "createTime": 1733935007,
+      "histories": [],
+      "created_at": "2024-12-11 18:36:47",
+      "updated_at": "2024-12-11 18:44:04"
+    },
+    {
+      "uuid": "83aded38939e8d09ba5522b52a585cc2",
+      "title": "7segdisplay",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "dfdf002ec1484d0fad523511076b340d": 8,
+        "bb009484ef804a24ac5d18c54b249586": 64,
+        "81d7cc6507de4e62b43f9b720a82e38d": 8
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1u",
+          5,
+          "C0603",
+          "C1,C1,C2,C3,C4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4007W",
+          4,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D1,D2,D3,D4",
+          {
+            "Manufacturer Part": "1N4007W",
+            "Manufacturer": "BLUE ROCKET",
+            "Supplier": "LCSC",
+            "Supplier Part": "C328592"
+          }
+        ],
+        [
+          "K2-3.6×6.1_SMD",
+          1,
+          "KEY-SMD_2P-L6.2-W3.6-LS8.0",
+          "KEY1",
+          {
+            "Manufacturer Part": "K2-1107ST-A4SW-06",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C118141"
+          }
+        ],
+        [
+          "LED",
+          10,
+          "CHIPLED-0603-TTW",
+          "LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8,LED9,LED10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1k",
+          75,
+          "R0603",
+          "R1,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40,R41,R42,R43,R44,R45,R46,R47,R48,R49,R50,R51,R52,R53,R54,R55,R56,R57,R58,R59,R60,R61,R62,R63,R64,R65,R66,R67,R68,R69,R70,R71,R72,R73,R74,R75,R76,R77,R78",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10k",
+          3,
+          "R0603",
+          "R2,R3,R4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SEG-TH_0.56×1_Cathode",
+          8,
+          "LED-SEG-TH_10P-L12.6-W19.0-P2.54-S15.24-BL",
+          "SEG1,SEG2,SEG3,SEG4,SEG5,SEG6,SEG7,SEG8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "志浩",
+            "Supplier": "",
+            "Supplier Part": "C8093"
+          }
+        ],
+        [
+          "Push Button",
+          9,
+          "SMD-BUTTON",
+          "SW-2SWITCH,SW-3SWITCH,SW-4SWITCH,SW-7SWITCH,SW-8SWITCH,SW-9SWITCH,SW-11SWITCH,SW-12SWITCH,SW-13SWITCH",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "SparkFun",
+            "Supplier Part": "COM-08720"
+          }
+        ],
+        [
+          "8284A",
+          1,
+          "",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "8086_microprocessor",
+          1,
+          "",
+          "U2",
+          {
+            "Manufacturer Part": "8086intel",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "32.768kHz",
+          1,
+          "OSC-TH_BD2.0-P0.70-D0.3",
+          "U3",
+          {
+            "Manufacturer Part": "01.X.TB.11JJVF000327680",
+            "Manufacturer": "CREC(晶宝)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7570511"
+          }
+        ],
+        [
+          "74LS373",
+          3,
+          "",
+          "U4,U5,U6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "74LS245",
+          2,
+          "",
+          "U7,U8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "27C512EPROM",
+          2,
+          "",
+          "U9,U10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "62256SRAM",
+          2,
+          "",
+          "U11,U12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "7W32FUT",
+          21,
+          "TSSOP8-0D65",
+          "U13,U14,U19,U20,U23,U24,U25,U26,U29,U30,U33,U35,U37,U42,U45,U46,U47,U48,U49,U52,U53",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "78X138",
+          3,
+          "",
+          "U15,U36,U38",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MC74HC08ADR2",
+          1,
+          "SOIC14N",
+          "U16",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "INVERTOR2",
+          17,
+          "FPC-SMD_21P-P0.60_XKB_X03A10H21G",
+          "U17,U18,U21,U22,U27,U28,U31,U32,U34,U40,U41,U43,U44,U50,U51,U54,U55",
+          {
+            "Manufacturer Part": "74HC04",
+            "Manufacturer": "US5QBR",
+            "Supplier": "LCSC",
+            "Supplier Part": "US5QBR"
+          }
+        ],
+        [
+          "3 State switch small",
+          2,
+          "3 STATE SWITCH SMALL",
+          "U39,U56",
+          {
+            "Manufacturer Part": "-",
+            "Manufacturer": "-",
+            "Supplier": "",
+            "Supplier Part": "-"
+          }
+        ],
+        [
+          "82251",
+          1,
+          "",
+          "U57",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "8255A-PARALEL",
+          1,
+          "",
+          "U58",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MAX232",
+          1,
+          "",
+          "U59",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "74LS244",
+          1,
+          "",
+          "U60",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "74X373",
+          11,
+          "DIP20",
+          "U61,U62,U63,U66,U68,U69,U70,U71,U72,U73,U74",
+          {
+            "Manufacturer Part": "74X373",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1733936659,
+      "createTime": 1733935485,
+      "histories": [],
+      "created_at": "2024-12-11 18:44:45",
+      "updated_at": "2024-12-11 19:04:19"
+    },
+    {
+      "uuid": "2d5027eed6748fa83a5a46e668384b84",
+      "title": "Porturi_dec",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "bda8736024584784a6a8b4922602579d": 1,
+        "a3c4736fa4f34475b5bbaf26b93bb01a": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1u",
+          5,
+          "C0603",
+          "C1,C1,C2,C3,C4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4007W",
+          4,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D1,D2,D3,D4",
+          {
+            "Manufacturer Part": "1N4007W",
+            "Manufacturer": "BLUE ROCKET",
+            "Supplier": "LCSC",
+            "Supplier Part": "C328592"
+          }
+        ],
+        [
+          "K2-3.6×6.1_SMD",
+          1,
+          "KEY-SMD_2P-L6.2-W3.6-LS8.0",
+          "KEY1",
+          {
+            "Manufacturer Part": "K2-1107ST-A4SW-06",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C118141"
+          }
+        ],
+        [
+          "LED",
+          10,
+          "CHIPLED-0603-TTW",
+          "LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8,LED9,LED10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1k",
+          76,
+          "R0603",
+          "R1,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40,R41,R42,R43,R44,R45,R46,R47,R48,R49,R50,R51,R52,R53,R54,R55,R56,R57,R58,R59,R60,R61,R62,R63,R64,R65,R66,R67,R68,R69,R70,R71,R72,R73,R74,R75,R76,R77,R78,R79",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10k",
+          3,
+          "R0603",
+          "R2,R3,R4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "R_3386P_EU",
+          1,
+          "RES-ADJ-TH_3386P",
+          "RP1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SWITCH-SPDTPTH_LOCK",
+          2,
+          "SWITCH-SPDT_LOCK.007S",
+          "S1,S2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SEG-TH_0.56×1_Cathode",
+          8,
+          "LED-SEG-TH_10P-L12.6-W19.0-P2.54-S15.24-BL",
+          "SEG1,SEG2,SEG3,SEG4,SEG5,SEG6,SEG7,SEG8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "志浩",
+            "Supplier": "",
+            "Supplier Part": "C8093"
+          }
+        ],
+        [
+          "Push Button",
+          9,
+          "SMD-BUTTON",
+          "SW-2SWITCH,SW-3SWITCH,SW-4SWITCH,SW-7SWITCH,SW-8SWITCH,SW-9SWITCH,SW-11SWITCH,SW-12SWITCH,SW-13SWITCH",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "SparkFun",
+            "Supplier Part": "COM-08720"
+          }
+        ],
+        [
+          "8284A",
+          1,
+          "",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "8086_microprocessor",
+          1,
+          "",
+          "U2",
+          {
+            "Manufacturer Part": "8086intel",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "32.768kHz",
+          1,
+          "OSC-TH_BD2.0-P0.70-D0.3",
+          "U3",
+          {
+            "Manufacturer Part": "01.X.TB.11JJVF000327680",
+            "Manufacturer": "CREC(晶宝)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7570511"
+          }
+        ],
+        [
+          "74LS373",
+          3,
+          "",
+          "U4,U5,U6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "74LS245",
+          2,
+          "",
+          "U7,U8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "27C512EPROM",
+          2,
+          "",
+          "U9,U10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "62256SRAM",
+          2,
+          "",
+          "U11,U12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "7W32FUT",
+          2,
+          "TSSOP8-0D65",
+          "U13,U14",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "78X138",
+          2,
+          "",
+          "U15,U38",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MC74HC08ADR2",
+          1,
+          "SOIC14N",
+          "U16",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Invertor1",
+          2,
+          "",
+          "U17,U19",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "dec4-16",
+          1,
+          "",
+          "U18",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LCD",
+          1,
+          "",
+          "U20",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "82251",
+          1,
+          "",
+          "U57",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "8255A-PARALEL",
+          1,
+          "",
+          "U58",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MAX232",
+          1,
+          "",
+          "U59",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "74LS244",
+          1,
+          "",
+          "U60",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "74X373",
+          11,
+          "DIP20",
+          "U61,U62,U63,U66,U68,U69,U70,U71,U72,U73,U74",
+          {
+            "Manufacturer Part": "74X373",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1736188061,
+      "createTime": 1736170531,
+      "histories": [],
+      "created_at": "2025-01-06 15:35:31",
+      "updated_at": "2025-01-06 20:27:41"
+    }
+  ],
+  "sort": [
+    "d263985cd9dfbe4f19b719ed68793c55",
+    "1a999530ec84d09ce62e3638fc864b29",
+    "b8b0443ccbe0ddbca422848ac64c37fe",
+    "d375daf70cb83b6d83d2ae121bd8c57b",
+    "0b0385de67cb431ba972a6379191a6ed",
+    "be981589593834ae84c03141ac457493",
+    "83aded38939e8d09ba5522b52a585cc2",
+    "2d5027eed6748fa83a5a46e668384b84"
+  ],
+  "title": "ProiectPM",
+  "foldername": "ProiectPM",
+  "schfilename": "ProiectPM.json",
+  "schfilemtime": 1736328931996
+}
